@@ -1,4 +1,8 @@
+Hi, I'm [Veronika Krukovich](http://vkrukovich.tk/) front-end developer interested in programming. I use MERN Stack. My passion is to use technology based solutions to help solve real world challenges. My goal is to become better developer.
+<br />
 
+**Contacts:**
+<p align="left">
 <a href="https://discordapp.com/users/VKrukovich#4415/">
   <img align="left" alt="Veronika Krukovich Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -10,9 +14,6 @@
 </a>
 
 <br />
-
-<p>Hi, I'm [Veronika Krukovich](http://vkrukovich.tk/) front-end developer interested in programming. I use MERN Stack. My passion is to use technology based solutions to help solve real world challenges. My goal is to become better developer.</p>
-
   
 **Languages and tools:**  
 <p align="left">
