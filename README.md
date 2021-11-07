@@ -3,13 +3,13 @@ Hi, I'm [Veronika Krukovich](http://vkrukovich.tk/) front-end developer interest
 
 **Contacts:**
 <p align="left">
-<a href="https://discordapp.com/users/VKrukovich#4415/">
+<a href="https://discordapp.com/users/VKrukovich#4415/" target="_blank">
   <img align="left" alt="Veronika Krukovich Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/VKrukovich">
+<a href="https://twitter.com/VKrukovich" target="_blank">
   <img align="left" alt="Veronika Krukovich Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/veronikakrukovich/">
+<a href="https://www.linkedin.com/in/veronikakrukovich/" target="_blank">
   <img align="left" alt="Veronika Krukovich LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
