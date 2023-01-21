@@ -1,4 +1,4 @@
-Hi, I'm [Veronika Krukovich](http://vkrukovich.tk/) front-end developer interested in programming. I use MERN Stack. My passion is to use technology based solutions to help solve real world challenges. My goal is to become better developer.
+Hi, I'm [Veronika Krukovich](https://vkrukovich.github.io/rsschool-cv/) front-end developer interested in programming. I use MERN Stack. My passion is to use technology based solutions to help solve real world challenges. My goal is to become better developer.
 <br />
 
 **Contacts:**
@@ -23,12 +23,6 @@ Hi, I'm [Veronika Krukovich](http://vkrukovich.tk/) front-end developer interest
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-
-
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=VKrukovich&show_icons=true&count_private=true" alt="VKrukovich" />
-
-![](https://visitor-badge.glitch.me/badge?page_id=VKrukovich.VKrukovich)
 
 
 
