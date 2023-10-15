@@ -1,4 +1,4 @@
-Hi, I'm [Veronika Krukovich](https://vkrukovich.github.io/rsschool-cv/) front-end developer interested in programming. I use MERN Stack. My passion is to use technology based solutions to help solve real world challenges. My goal is to become better developer.
+Hi, I'm [Veronika Krukovich](https://vkrukovich.github.io/rsschool-cv/) front-end developer interested in programming. I use MERN Stack. My passion is to use technology based solutions to help solve real world challenges.
 <br />
 
 **Contacts:**
